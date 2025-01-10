@@ -30,14 +30,7 @@ You can find all the necessary installation files used in this project [here.](h
 <h2>Project Walk-through:</h2>
 
 <p align="center">
-Navigate to Microsoft Azure and create a resource group: <br/>
-<img 
-<br />
-<br />
-<img 
-<br />
-<br />
-Once my resource group is created, next I'll create the virtual machine:  <br/>
+ I'll create the virtual machine:  <br/>
 <img
 <br />
 <br />
