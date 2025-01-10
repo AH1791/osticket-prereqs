@@ -31,19 +31,26 @@ You can find all the necessary installation files used in this project [here.](h
 
 <p align="center">
  I'll create the virtual machine:  <br/>
-<img
+
+![osticket VM PIC1](https://github.com/user-attachments/assets/dde42753-d499-4b74-a825-009a7ef4c3f7)
+
+
 <br />
 <br />
 Setting up the virtual machine:  <br/>
-<img
+
+![osticket VM PIC2](https://github.com/user-attachments/assets/618cfb21-c375-4aa9-8637-b31f739022cd)
+
 <br />
 <br />
 <img 
 <br />
 <br />
 I'll leave all other settings to default and create this VM. Once it has been created I'll use Remote Desktop Connection to connect to the VM:  <br/>
-<img 
-<br />
+
+![osticket VM PIC3RDp](https://github.com/user-attachments/assets/628d9ab6-57ad-4ca0-9f5a-67c451441911)
+
+
 <br />
 Once I've connected to the VM I will install and enable IIS (Internet Information Servies) by going to Control Panel> Programs> Turn Windows Features On or Off> Internet Information Services and enable it then World Wide Web Services> Application Development Features and enable CGI:  <br/>
 <img src="https://imgur.com/0MyNsKC.png" height="80%" width="80%" alt="Setting Up in Azure"/>
