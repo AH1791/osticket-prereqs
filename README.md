@@ -97,6 +97,11 @@ Next, I have to setup the login credentials and I'll write them down just so I r
 <br />
 Open IIS as an admin:  <br/>
 
+![image](https://github.com/user-attachments/assets/6fa1886c-4c69-4eb1-b37f-8e97d895e154)
+
+![image](https://github.com/user-attachments/assets/bfd9022e-21ff-4d07-a6ea-5d4abc02c195)
+
+
 <br />
 <br />
 Next go to PHP Manager> Register new PHP version and then select the file shown:  <br/>
