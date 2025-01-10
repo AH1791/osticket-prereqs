@@ -90,6 +90,9 @@ Download MySQL:  <br/>
 <br />
 Next, I have to setup the login credentials and I'll write them down just so I remember, since this is only a project. Do not write passwords down in real life:  <br/>
 
+![image](https://github.com/user-attachments/assets/73a57421-a9ca-4933-bd64-f1b7651032ac)
+
+
 <br />
 <br />
 Open IIS as an admin:  <br/>
