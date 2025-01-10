@@ -150,17 +150,30 @@ Click on the add buton to add permissions to the file> Select a principle> type 
 <br />
 Hit continue on the osTicket web page in the browser and fill out the set up page:  <br/>
 
-<br />
+![image](https://github.com/user-attachments/assets/59a4ef83-1624-4288-b67c-77e4f7ecb313)
+
+
+
+
 <br />
 Before database set up we'll have to connect the database using HeidiSQL. Install HeidiSQL from setup links:  <br/>
+
+![image](https://github.com/user-attachments/assets/83b81c92-101b-4b86-b6e3-57e3540a86d0)
+
 
 <br />
 <br />
 In HeidiSQL click New> Username = root> Password = root password from mySQL setup> Open:  <br/>
 
+![image](https://github.com/user-attachments/assets/85c0eacc-885b-4f10-a686-115f680a46e8)
+
+
 <br />
 <br />
 In HeidiSQL right click Unnamed> Create> New Database> Name it osTicket> OK. Then continue to fill out the database portion of osTicket setup. Click Install Now when done.:  <br/>
+
+![image](https://github.com/user-attachments/assets/ebbbfeac-1b7a-4f5d-9056-cb4250b523bd)
+
 
 <br />
 <br />
